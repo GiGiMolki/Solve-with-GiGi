@@ -19,11 +19,13 @@ To get started, you can follow these steps:
 
 1. Clone the repo to your local machine 
 
+   		https://github.com/GiGiMolki/Solve-with-GiGi/Pandas.git
 
 2. Install Pandas:
 
 Make sure you have Pandas installed. You can install it via pip if you don’t already have it:
-    pip install pandas
+    			
+       		pip install pandas
 
 3. Practice:
 	•	Open the Questions Only file and try solving the challenges on your own.
@@ -60,4 +62,5 @@ Conclusion
 This collection of Pandas challenges will help you master essential skills in data manipulation and analysis. Whether you’re a beginner or looking to deepen your knowledge, these exercises will guide you towards becoming more proficient with Pandas.
 
 Happy Coding!
+
 GiGi Molki
