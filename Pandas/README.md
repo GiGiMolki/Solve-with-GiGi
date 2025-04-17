@@ -1,12 +1,15 @@
 100 Pandas Coding Challenges
 
-Welcome to the 100 Pandas Coding Challenges repository! This repository is designed to help you practice and master the Pandas library by solving a variety of problems ranging from beginner to advanced level. It includes 100 coding challenges with questions and solutions to guide you through various Pandas concepts and operations.
+Welcome to the 100 Pandas Coding Challenges repository! This repository is designed to help you practice and master the Pandas library by solving various problems ranging from beginner to advanced levels. It includes 100 coding challenges with questions and solutions to guide you through various Pandas concepts and operations.
 
 
 Contents
-	1.	Questions Only: A collection of 100 Pandas challenges with empty answer cells. Use this file to practice solving the problems on your own.
-	2.	Solutions: This file contains the solutions to all the challenges, which will help you understand the best approaches and techniques for solving the problems.
-	3.	README.md: This file. :)
+
+1.	Questions Only: A collection of 100 Pandas challenges with empty answer cells. You can use this file to practice solving the problems on your own.
+ 
+2.	Solutions: This file contains the solutions to all the challenges, which will help you understand the best approaches and techniques for solving the problems.
+ 
+3.	README.md: This file. :)
 
 
 
