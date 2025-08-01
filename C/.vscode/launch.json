@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mynimbus/Library/Mobile Documents/com~apple~CloudDocs/GitHub Uploads/Solve-with-GiGi/C",
+      "program": "/Users/mynimbus/Library/Mobile Documents/com~apple~CloudDocs/GitHub Uploads/Solve-with-GiGi/C/build/Debug/outDebug"
+    }
+  ]
+}
